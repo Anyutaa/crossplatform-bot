@@ -1,0 +1,19 @@
+﻿# Секреты — НИКОГДА не коммитить
+secrets.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Логи
+*.log
