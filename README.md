@@ -41,8 +41,9 @@ Telegram-бот для системы бронирования жилья. Ал�
 ## Запуск
 
 ### Требования
+
 - Python 3.10+
-- Запущенный [Booking System API](https://github.com/Anyutaa/Crossplatform_web_api) на `http://localhost:5000`
+- Запущенный [Booking System API](https://github.com/Anyutaa/crossplatform-front) на `http://localhost:5000`
 - Telegram Bot API token от [@BotFather](https://t.me/BotFather)
 
 ### Установка
@@ -96,11 +97,11 @@ python main.py
 
 ## Связанные репозитории
 
-| Компонент       | Репозиторий                                                                  |
-|-----------------|------------------------------------------------------------------------------|
-| Backend API     | [Crossplatform_web_api](https://github.com/Anyutaa/Crossplatform_web_api)    |
-| Web frontend    | [crossplatform-front](https://github.com/Anyutaa/crossplatform-front)        |
-| Telegram bot    | _текущий репозиторий_                                                        |
+| Компонент    | Репозиторий                                                               |
+| ------------ | ------------------------------------------------------------------------- |
+| Backend API  | [Crossplatform_web_api](https://github.com/Anyutaa/Crossplatform_web_api) |
+| Web frontend | [crossplatform-front](https://github.com/Anyutaa/crossplatform-front)     |
+| Telegram bot | _текущий репозиторий_                                                     |
 
 ---
 
